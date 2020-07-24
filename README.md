@@ -6,7 +6,7 @@ Make your own hardware to convert a dial phone into a mobile dial phone
 
 See here for hardware and build's instructions : (link coming soon)
 
-Works on ATmega328 board only
+Works on ATmega328 board
 
 
 ____________________________________________________________________________________________________
